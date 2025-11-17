@@ -1,3 +1,4 @@
 google-adk
 fastapi[standard]
 langchain-community
+PyYAML
